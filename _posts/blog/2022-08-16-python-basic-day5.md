@@ -60,7 +60,7 @@ date: 2022-08-17 23:41:00 +0900
         print( " B >= A")
         print( " B >= A")
         print( " B >= A")
-    if b == a: #조건문2:
+    if b == a: # 조건문2:
         print( " B == A")
     if b < a: # 조건문3:
         print( " B < A")
